@@ -1,0 +1,1 @@
+Thanks for your contribution!  Unfortunately, we don't use GitHub pull requests to manage code contributions to this repository. Instead, please see [README.md](../blob/main/README.md) which provides full instructions on how to get involved.
