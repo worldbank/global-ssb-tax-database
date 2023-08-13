@@ -4,7 +4,7 @@
 The Global SSB Tax Database is an open-source repository that provides comprehensive data on sugar-sweetened beverage (SSB) tax designs worldwide. It serves as a valuable resource to support research, inform policy decisions, and guide the development of best practices for SSB taxation.
 
 ## Accessing the Database
-- You can access and download the full SSB tax database directly from this GitHub repository. 
+- You can access and download the full SSB tax database directly from this GitHub repository. Both csv and xlsx versions are avaiable. 
 - The database is also available on the World Bank Data Catalog: [World Bank Data Catalog](https://datacatalog.worldbank.org/search/dataset/0063310).
 - Explore interactive data visualizations, maps, and stories ([#1 Introducing the SSB database](https://ssbtax.worldbank.org/story-one), [#2 SSB tax coverage](https://ssbtax.worldbank.org/story-two), [#3 SSB tax designs](https://ssbtax.worldbank.org/story-three)) built based on the latest database on the [Global SSB Tax Landing Page](https://ssbtax.worldbank.org/).
 
