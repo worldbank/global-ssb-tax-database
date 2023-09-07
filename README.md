@@ -17,7 +17,7 @@ The data in this repository is made available under the [Creative Commons Attrib
 >World Bank Group. 2023. Global SSB Tax Database. Washington, DC: World Bank Group.
 
 ## Using the repository
-The repository has two folders containing all versions of the Database (Database folder) and supporting documents (Support folder). Supporting documents include the codebook and methods document. The approach taken to develop and update the project is also summarized in the [Wiki](../../wiki) page.
+Current and archived versions of the Database can be found in the [Database](Database) folder, in Excel and csv file formats. Updated versions of the Database will be added biannually. Supporting information, including Methods and Codebook, can be found on the [Wiki](../../wiki) page.
 
 ## Contributing to the Database
 We welcome contributions from the community to keep the Database up-to-date and relevant. You can contribute in the following ways:
